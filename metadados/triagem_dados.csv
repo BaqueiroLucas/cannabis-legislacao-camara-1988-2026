@@ -1,0 +1,5 @@
+﻿base;arquivo;linhas;colunas;sha256_origem;colunas_sinalizadas;alertas;situacao
+D01;D01_corpus_proposicoes.csv;36;82;595512b251f9d92ade17e29fd423696d862ff731d26b30375845882f8ca765fb;;;SEM_ALERTAS_AUTOMATICOS
+D03;D03_autorias_prosopograficas.csv;47;45;ffa7d8bbf017f488f1c33fe49b22645038c7d0ad190f2b5196ae925d1d7a2110;;;SEM_ALERTAS_AUTOMATICOS
+D04;D04_matriz_acm.csv;42;37;ae95e529dfce80530ac86b086e0dff3a2774228a6bd9a508e5ff99f10a46a391;;;SEM_ALERTAS_AUTOMATICOS
+D05;D05_vinculos_profissionais.csv;56;5;1cc3183dcebe127269095458ccf2d327a9249990f003b13db5987b04ef935cc8;;;SEM_ALERTAS_AUTOMATICOS

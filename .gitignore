@@ -1,0 +1,12 @@
+# Arquivos temporários e locais
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+*.swp

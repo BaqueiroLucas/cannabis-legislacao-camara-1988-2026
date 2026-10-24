@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Ao utilizar este conjunto, cite o autor e a versão efetivamente consultada."
+title: "Legislação sobre cannabis na Câmara dos Deputados do Brasil (1988–2026): dados, atlas prosopográfico e documentação"
+type: dataset
+authors:
+  - family-names: "Maciel-Baqueiro"
+    given-names: "Lucas Mariano"
+abstract: "Conjunto de resultados de pesquisa documental e prosopográfica sobre 36 proposições legislativas relacionadas à cannabis na Câmara dos Deputados do Brasil, com 42 parlamentares únicos e 47 registros de autoria e coautoria."
+keywords:
+  - "cannabis"
+  - "legislação"
+  - "Câmara dos Deputados"
+  - "prosopografia"
+  - "Brasil"
+  - "estudos legislativos"

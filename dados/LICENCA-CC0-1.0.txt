@@ -1,0 +1,27 @@
+CC0 1.0 Universal — Dados analíticos
+
+Autor: Lucas Mariano Maciel-Baqueiro
+
+Os direitos autorais e direitos conexos que o autor detenha
+sobre suas contribuições originais às bases analíticas
+desta pasta são dedicados ao domínio público, na máxima
+extensão permitida pela legislação aplicável, nos termos
+da Creative Commons CC0 1.0 Universal.
+
+Esta declaração não alcança direitos de terceiros,
+documentos legislativos reproduzidos de outras fontes,
+marcas, materiais externos ou informações cuja divulgação
+esteja sujeita a outras restrições legais.
+
+Instrumento jurídico e texto oficial:
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Embora a CC0 dispense exigência de atribuição na extensão
+legalmente possível, a citação científica da pesquisa
+continua sendo recomendada.
+
+Esta declaração refere-se exclusivamente aos arquivos
+analíticos disponibilizados na pasta dados/.
+
+Não concede licença sobre atlas/, figuras/ ou códigos
+de computador que venham a integrar o repositório.
