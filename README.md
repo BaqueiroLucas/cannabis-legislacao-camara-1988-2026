@@ -87,3 +87,20 @@ as figuras, o atlas ou o depósito já arquivado.
 
 O README e os demais arquivos do pacote identificam
 as limitações metodológicas e documentais existentes.
+
+## Atualização documental H17 — 24/10/2026
+
+A etapa H17 apresenta cobertura documental estrutural
+para os 42 parlamentares nas dimensões formação,
+carreira, gênero, raça/cor e histórico judicial.
+
+A integração documental foi concluída com ressalvas.
+A homologação científica individual e exaustiva dos
+35 perfis complementares não foi certificada.
+
+Consulte
+[`docs/TERMO_CONSOLIDACAO_DOCUMENTAL_H17_20261024.md`](docs/TERMO_CONSOLIDACAO_DOCUMENTAL_H17_20261024.md).
+
+Esta atualização documental não modifica a release
+v1.0.0 nem o depósito Zenodo já arquivado.
+
