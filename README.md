@@ -52,3 +52,38 @@ Consulte `CITATION.cff`.
 
 Nenhum depósito foi realizado no GitHub ou Zenodo.
 A revisão humana final continua necessária.
+
+## Identificadores persistentes
+
+**DOI da versão 1.0.0:** https://doi.org/10.5281/zenodo.23625529
+
+**DOI geral do projeto:** https://doi.org/10.5281/zenodo.23625528
+
+**Autor:** Lucas Mariano Maciel-Baqueiro
+
+### Referência bibliográfica sugerida
+
+MACIEL-BAQUEIRO, Lucas Mariano. Legislação sobre cannabis na Câmara dos Deputados do Brasil (1988–2026): dados, atlas prosopográfico e documentação.
+Versão 1.0.0. Zenodo, 2026.
+DOI: https://doi.org/10.5281/zenodo.23625529.
+
+### Licenciamento diferenciado
+
+- Atlas e figuras PNG/SVG: CC BY 4.0.
+- Bases analíticas próprias D01, D03, D04 e D05:
+  CC0 1.0.
+- Código: não incluído na versão 1.0.0.
+
+Consulte `docs/LICENCIAMENTO.md`.
+
+### Preservação do depósito
+
+A release v1.0.0 foi arquivada no Zenodo a partir do
+commit científico `dd538b7cace4a7f1297e38268def4a28fa26f3f2`.
+
+Este acréscimo de documentação na branch `main`
+não altera a tag v1.0.0, os dados publicados,
+as figuras, o atlas ou o depósito já arquivado.
+
+O README e os demais arquivos do pacote identificam
+as limitações metodológicas e documentais existentes.
